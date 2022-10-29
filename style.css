@@ -9,8 +9,7 @@ body {
 
 input[type=text],
 input[type=text]:focus {
-    color: #fff;
-    border: none;
+    color: grey border: none;
     background-color: rgba(249, 243, 243, 0.763);
     max-width: 400px;
 }
